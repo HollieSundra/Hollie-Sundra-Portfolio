@@ -2,7 +2,7 @@ import "./HeroimgStyles.css";
 
 import React from "react";
 
-import IntroImg from "../assets/introbg.jpg";
+import IntroImg from "../assets/pic2.jpg";
 import { Link } from "react-router-dom";
 
 
