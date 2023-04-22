@@ -1,14 +1,18 @@
 import React from "react";
 import Navbar from "../components/Navbar";
 import Heroimg from "../components/Heroimg";
+import Work from "../components/Work";
 import Footer from "../components/Footer";
 
 const Home = () => {
-    return <div>
+    return (
+    <div>
         <Navbar/>
         <Heroimg />
+        <Work />
         <Footer />
-    </div>;
+    </div>
+    );
 };
 
 export default Home;
