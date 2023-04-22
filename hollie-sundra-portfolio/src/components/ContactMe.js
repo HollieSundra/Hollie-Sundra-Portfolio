@@ -1,8 +1,8 @@
-import "./FormStyles.css";
+import "./ContactMeStyles.css";
 
 import React from "react";
 
-const Form = () => {
+const ContactMe = () => {
     return (
         <div className="form">
             <form>
@@ -20,4 +20,4 @@ const Form = () => {
     );
 };
 
-export default Form;
+export default ContactMe;

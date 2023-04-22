@@ -3,14 +3,14 @@ import React from "react";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import HeroImg2 from "../components/HeroImg2";
-import Form from "../components/Form";
+import ContactMe from "../components/ContactMe";
 
 const Contact = () => {
     return (
     <div>
         <Navbar />
         <HeroImg2 heading="CONTACT" text="Lets get in touch" />
-        <Form />
+        <ContactMe />
         <Footer />
     </div>
     );

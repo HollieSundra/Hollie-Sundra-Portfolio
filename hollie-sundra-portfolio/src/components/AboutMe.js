@@ -1,11 +1,11 @@
-import "./AboutContentStyles.css";
+import "./AboutMeStyles.css";
 
 import React from "react";
 
 import { Link } from "react-router-dom";
 
 
-const AboutContent = () => {
+const AboutMe = () => {
     return (
         <div className="about">
             <div className="left">
@@ -21,4 +21,4 @@ const AboutContent = () => {
     );
 };
 
-export default AboutContent;
+export default AboutMe;
