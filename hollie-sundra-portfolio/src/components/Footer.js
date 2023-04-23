@@ -30,9 +30,15 @@ const Footer = () => {
                 <div className="right">
                     <h4>Social Media Links</h4>
                     <div className="social-media">
-                    <FaFacebook size={30} style={{ color: "#fff", marginRight: "1rem" }}/>
-                    <FaGithub size={30} style={{ color: "#fff", marginRight: "1rem" }}/>
-                    <FaLinkedin size={30} style={{ color: "#fff", marginRight: "1rem" }}/>
+                      <a href="https://www.facebook.com/hollie.abram.9">  
+                        <FaFacebook size={30} style={{ color: "#fff", marginRight: "1rem" }}/>
+                      </a>
+                      <a href="https://github.com/HollieSundra">
+                        <FaGithub size={30} style={{ color: "#fff", marginRight: "1rem" }}/>
+                      </a>
+                      <a href="https://www.linkedin.com/in/hollie-sundra-56643722">
+                        <FaLinkedin size={30} style={{ color: "#fff", marginRight: "1rem" }}/>
+                      </a>
                     </div>
                 </div>
             </div>
