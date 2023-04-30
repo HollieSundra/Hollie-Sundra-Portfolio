@@ -1,3 +1,7 @@
+.HeroImg2 {
+    margin-top: 9rem; /* adjust this value to your desired amount */
+  }
+  
 .hero-img{
     width: 100%;
     background: rgba(0, 0, 0, 0.5);
@@ -25,7 +29,11 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    white-space: normal;
+    max-width: 40%;
+    margin: 0 auto;
 }
+
 
 .hero-img h1{
     font-size: 2.4rem;
@@ -36,9 +44,28 @@
     text-align: center;
 }
 
+.hero-text {
+    max-width: 500px; /* adjust to your desired width */
+    margin: 0 auto;
+    text-align: center;
+    font-size: 1.2rem;
+    line-height: 1.6;
+    color: #fff;
+    white-space: normal;
+    margin-top: 2rem;
+}
+
+  
+
 @media screen and (max-width: 640px) {
     .hero-img h1{
         font-size: 2rem;
     }
 
+    .hero-text {
+        font-size: 1rem;
+      }
+
 }
+
+  

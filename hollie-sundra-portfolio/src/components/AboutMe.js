@@ -1,6 +1,7 @@
 import "./AboutMeStyles.css";
 
 import React from "react";
+import HeadShot from "../assets/headshot.jpg";
 
 import { Link } from "react-router-dom";
 
@@ -9,10 +10,10 @@ const AboutMe = () => {
     return (
         <div className="about">
             <div className="left">
-                <h1>Hello!</h1>
-                <p>
-                    I am a Full Stack developer. I love creating responsive and unique applications. I'm alway eager to tackle a challenge and truely enjoy working with a dynamic team.
-                </p>
+                <div className="headshot">
+                    <img className="headshot-img"
+                    src={HeadShot} alt="HeadShot"/> 
+                </div>
                 <Link to="/contact">
                     <button className="btn">Contact</button>
                 </Link>
