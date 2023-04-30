@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Hollie-Sundra-Portfolio/static/css/main.d35da060.css",
+    "main.js": "/Hollie-Sundra-Portfolio/static/js/main.6829f0f2.js",
+    "static/media/headshot.jpg": "/Hollie-Sundra-Portfolio/static/media/headshot.b05d395a69a38c57de31.jpg",
+    "static/media/project2.png": "/Hollie-Sundra-Portfolio/static/media/project2.989fd558aeb4a42f317f.png",
+    "static/media/challenge10.jpg": "/Hollie-Sundra-Portfolio/static/media/challenge10.ce6ade3be1a6e0b36fd9.jpg",
+    "static/media/challenge12.jpg": "/Hollie-Sundra-Portfolio/static/media/challenge12.8fdd76d01226cb9f65cb.jpg",
+    "static/media/challenge18.jpg": "/Hollie-Sundra-Portfolio/static/media/challenge18.ddae0f1303151e6f832b.jpg",
+    "static/media/project1.jpg": "/Hollie-Sundra-Portfolio/static/media/project1.798394db7692e221fe69.jpg",
+    "static/media/pic2.jpg": "/Hollie-Sundra-Portfolio/static/media/pic2.34fd90b77d6707adea2f.jpg",
+    "static/media/challenge11.jpg": "/Hollie-Sundra-Portfolio/static/media/challenge11.da17872279e5006481a0.jpg",
+    "index.html": "/Hollie-Sundra-Portfolio/index.html",
+    "main.d35da060.css.map": "/Hollie-Sundra-Portfolio/static/css/main.d35da060.css.map",
+    "main.6829f0f2.js.map": "/Hollie-Sundra-Portfolio/static/js/main.6829f0f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d35da060.css",
+    "static/js/main.6829f0f2.js"
+  ]
+}
