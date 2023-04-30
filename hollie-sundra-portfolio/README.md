@@ -54,3 +54,23 @@ This portfolio project is built using the following technologies:
 ## Screen Shots and Link to application
 
 
+
+
+
+
+
+<img width="1867" alt="Homepage" src="https://user-images.githubusercontent.com/106099150/235329659-73048af1-1cbe-426b-acc9-e75819bce8e8.png">
+
+
+
+<img width="1863" alt="Projectspage" src="https://user-images.githubusercontent.com/106099150/235329681-40889afd-3884-483d-a162-59ae0974ce06.png">
+
+
+
+<img width="1861" alt="Aboutpage" src="https://user-images.githubusercontent.com/106099150/235329684-18988ae9-c8e3-44e6-9246-c11490951caa.png">
+
+
+
+<img width="1861" alt="Contactpage" src="https://user-images.githubusercontent.com/106099150/235329690-150f8617-b5a3-436e-945a-dd64f23e6349.png">
+
+
