@@ -14,7 +14,7 @@ const About = () => {
   text={
     <div>
       <p>
-        As a junior-level full-stack developer, I am passionate about creating
+        As a full-stack developer, I am passionate about creating
         innovative and exciting applications that combine a great user
         interface with a clean and efficient backend. I thrive on solving
         complex problems and exploring new technologies to enhance my skills
