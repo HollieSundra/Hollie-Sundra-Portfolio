@@ -2,14 +2,15 @@ import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
 import App from "./App";
-import { HashRouter } from "react-router-dom";
+import { BrowserRouter, BrowserRouter as Router } from "react-router-dom";
 
 
-ReactDOM.createRoot(document.getElementById("root")).render(
-  <React.StrictMode>
-    <HashRouter>
+ReactDOM.render(
+  <Router basename={process.env.PUBLIC_URL}>
+    <BrowserRouter>
       <App />
-    </HashRouter>,
-    </React.StrictMode>
+    </BrowserRouter>,
+  </Router>, 
+    document.getElementById("root")
 );
 
