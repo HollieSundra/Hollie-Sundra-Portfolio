@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Hollie-Sundra-Portfolio/static/css/main.d35da060.css",
-    "main.js": "/Hollie-Sundra-Portfolio/static/js/main.7bcfd089.js",
+    "main.js": "/Hollie-Sundra-Portfolio/static/js/main.1146260e.js",
     "static/media/headshot.jpg": "/Hollie-Sundra-Portfolio/static/media/headshot.b05d395a69a38c57de31.jpg",
     "static/media/project2.png": "/Hollie-Sundra-Portfolio/static/media/project2.989fd558aeb4a42f317f.png",
     "static/media/challenge10.jpg": "/Hollie-Sundra-Portfolio/static/media/challenge10.ce6ade3be1a6e0b36fd9.jpg",
@@ -12,10 +12,10 @@
     "static/media/challenge11.jpg": "/Hollie-Sundra-Portfolio/static/media/challenge11.da17872279e5006481a0.jpg",
     "index.html": "/Hollie-Sundra-Portfolio/index.html",
     "main.d35da060.css.map": "/Hollie-Sundra-Portfolio/static/css/main.d35da060.css.map",
-    "main.7bcfd089.js.map": "/Hollie-Sundra-Portfolio/static/js/main.7bcfd089.js.map"
+    "main.1146260e.js.map": "/Hollie-Sundra-Portfolio/static/js/main.1146260e.js.map"
   },
   "entrypoints": [
     "static/css/main.d35da060.css",
-    "static/js/main.7bcfd089.js"
+    "static/js/main.1146260e.js"
   ]
 }
